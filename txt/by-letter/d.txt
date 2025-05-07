@@ -8,7 +8,6 @@ dacoit
 dactyl
 dad  
 dada 
-daddle
 daddy 
 dado
 daff
@@ -174,7 +173,6 @@ deficiency
 deficient  
 deficit  
 defied  
-defier  
 defile  
 define  
 defined  
@@ -430,7 +428,6 @@ diamond
 diamondback
 diamonded
 diamondize
-diana
 diapason
 diaper
 diapered
@@ -461,7 +458,6 @@ dibble
 dibs
 dice
 diced
-diceless
 dicer
 dices
 dicey
@@ -469,7 +465,6 @@ dichotomy
 dichotomous
 dichotomously
 dichotomousness
-dickensian
 dicker
 dickey
 dicta
@@ -492,7 +487,6 @@ didactically
 didacticism
 diddle
 diddled
-diddler
 diddling
 dido
 die
@@ -524,7 +518,6 @@ diffidence
 diffident
 diffidently
 diffraction
-diffractional
 diffractometer
 diffuse
 diffused
@@ -532,7 +525,6 @@ diffusely
 diffuseness
 diffuser
 diffuses
-diffusibility
 diffusible
 diffusing
 diffusion
@@ -541,7 +533,6 @@ diffusively
 diffusiveness
 dig
 diggable
-digged
 digger
 digging
 diggings
@@ -646,7 +637,6 @@ diplomacy
 diplomat
 diplomatic
 diplomatically
-diplomatics
 diplomatist
 diplopod
 dipole
@@ -986,10 +976,6 @@ disembody
 disembodied
 disembodies
 disembodying
-disemploy
-disemployed
-disemploying
-disemploys
 disenchant
 disenchanted
 disenchanting
@@ -1061,7 +1047,7 @@ dish
 dishabille
 disharmony
 dishcloth
-dishclothes
+dishcloths
 dishonor
 dishonorable
 dishonorably
@@ -1116,10 +1102,6 @@ disinterested
 disinterestedly
 disinterment
 disinters
-disinvigorate
-disinvigorated
-disinvigorates
-disinvigorating
 disjoin
 disjoined
 disjoining
@@ -1374,7 +1356,6 @@ dissidence
 dissident
 dissidents
 dissilience
-dissilient
 dissimilar
 dissimilarity
 dissimilarly
@@ -1452,8 +1433,6 @@ distilling
 distills
 distils
 distinct
-distincter
-distinctest
 distinction
 distinctions
 distinctive
@@ -1501,7 +1480,6 @@ distribution
 distributional
 distributions
 distributive
-distributively
 distributor
 distributors
 district
@@ -1688,9 +1666,6 @@ doggedness
 doggerel
 doggone
 doggoned
-doggones
-doggonest
-doggoning
 doggy
 doghouse
 doghouses
@@ -1765,7 +1740,6 @@ donned
 donor
 doodle
 doodlebug
-doodlehead
 dodo
 doff
 dog
@@ -1778,14 +1752,12 @@ dogfight
 dogging
 doghouse
 dogma
-dogman
 dogmatism
 dogmatist
 dogmatic
 dogmatically
 dogmeat
 dogpile
-dogtail
 dogtrot
 doilies
 doily
@@ -1798,7 +1770,6 @@ dollar
 dollarize
 dollars
 dolorous
-dolour
 domain
 domineeringly
 domiciliary
@@ -1849,7 +1820,6 @@ dovetail
 dovetailed
 dovetailing
 dowager
-dowd
 dowdy
 dowel
 dowels
@@ -1862,7 +1832,6 @@ downfall
 downhearted
 downhill
 downing
-downism
 downland
 downlink
 download
@@ -2038,7 +2007,6 @@ ductile
 ducting
 ducts
 dude
-dudette
 due
 duel
 dueled
@@ -2050,7 +2018,6 @@ duet
 duets
 duff
 duffel
-duffelbag
 duffs
 dug
 dugout
@@ -2083,8 +2050,6 @@ dumping
 dumpsite
 dumpy
 dunce
-dunced
-duncery
 dunes
 dung
 dungarees
@@ -2097,7 +2062,6 @@ dunking
 dunks
 duo
 duodecimal
-duoecism
 duos
 drove
 drover
@@ -2154,14 +2118,9 @@ ducked
 ducker
 ducking
 ducklings
-ducklip
 duckweed
 ducky
 dude
-dudeism
-dudeist
-dudette
-dudish
 due
 dueled
 duelist
@@ -2173,9 +2132,7 @@ duets
 duettist
 duettists
 duffs
-duffy
 dug
-dugal
 dugout
 dugouts
 dukes
@@ -2189,7 +2146,6 @@ ducting
 ductless
 ducts
 dude
-dudette
 due
 duel
 dueled
@@ -2201,7 +2157,6 @@ duet
 duets
 duff
 duffel
-duffelbag
 duffs
 dug
 dugout
@@ -2233,8 +2188,6 @@ dumping
 dumpsite
 dumpy
 dunce
-dunced
-duncery
 dunes
 dung
 dungarees
@@ -2247,7 +2200,6 @@ dunking
 dunks
 duo
 duodecimal
-duoecism
 duos
 duple
 duplet
@@ -2258,8 +2210,6 @@ duplicate
 duplicated
 duplicates
 duplication
-duplicationist
-duplicationists
 duplicative
 duplicitous
 duplicitously
@@ -2270,18 +2220,11 @@ duration
 durative
 durations
 duress
-duressful
-duri
 durian
-durities
 durmast
 durn
 durned
-durner
-duro
-duros
 durum
-dury
 dusk
 duskily
 dusky
@@ -2294,14 +2237,9 @@ dustings
 dustless
 dustpan
 dustproof
-dustrate
 dustup
-dustwork
-dustworm
 dusty
-dusun
 dutch
-dutchism
 dutchman
 dutchmen
 dutchwoman
