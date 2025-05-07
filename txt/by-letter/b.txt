@@ -107,8 +107,6 @@ bacterial
 bacteriophage
 bacterium
 bad
-badder
-baddest
 bade
 badge
 badger
@@ -137,7 +135,6 @@ bagatelle
 bagel
 bagels
 bagful
-bagfuls
 baggage
 baggageman
 bagged
@@ -197,7 +194,6 @@ baldpate
 baldpates
 baldric
 baldrics
-baldy
 bale
 baled
 baleen
@@ -367,7 +363,6 @@ banned
 banner
 banners
 banning
-bannister
 bannisters
 banns
 banquet
@@ -417,7 +412,6 @@ barbarous
 barbarously
 barbecue
 barbecued
-barbecuer
 barbecues
 barbecuing
 barbed
@@ -521,12 +515,8 @@ barred
 barrel
 barreled
 barreling
-barrelled
-barrelling
 barrels
 barren
-barrener
-barrenest
 barrenness
 barrens
 barrette
@@ -601,11 +591,8 @@ basketballs
 baskets
 basking
 basks
-basque
-basques
 bass
 basses
-bassi
 bassinet
 bassinets
 bassist
@@ -807,7 +794,6 @@ beatniks
 beats
 beau
 beaus
-beaut
 beauteous
 beauteously
 beautician
@@ -867,8 +853,6 @@ bedecks
 bedevil
 bedeviled
 bedeviling
-bedevilled
-bedevilling
 bedevilment
 bedevils
 bedfellow
@@ -1010,7 +994,6 @@ beguiling
 beguilingly
 begun
 behalf
-behalves
 behave
 behaved
 behaves
@@ -1102,7 +1085,6 @@ belligerent
 belligerently
 belligerents
 belling
-bellini
 bellman
 bellmen
 bellow
@@ -1229,7 +1211,6 @@ berthing
 berths
 beryl
 beryllium
-beryls
 beseech
 beseeched
 beseeches
@@ -1295,14 +1276,12 @@ betakes
 betaking
 betas
 betcha
-beth
 bethel
 bethels
 bethink
 bethinking
 bethinks
 bethought
-beths
 betide
 betided
 betides
@@ -1342,11 +1321,8 @@ betwixt
 bevel
 beveled
 beveling
-bevelled
-bevelling
 bevels
 beverage
-beverageless
 beverages
 bevies
 bevy
@@ -1355,9 +1331,6 @@ bewailed
 bewailing
 bewails
 beware
-bewared
-bewares
-bewaring
 bewilder
 bewildered
 bewildering
@@ -1376,7 +1349,6 @@ bias
 biased
 biases
 biasing
-biassed
 biassing
 biathlon
 biathlons
@@ -1462,7 +1434,6 @@ bigoted
 bigotry
 bigots
 bigwig
-bigwigged
 bigwigs
 bike
 biked
@@ -1497,7 +1468,6 @@ billets
 billfold
 billfolds
 billiards
-billies
 billing
 billings
 billion
@@ -1512,7 +1482,6 @@ billowing
 billows
 billowy
 bills
-billy
 bimbo
 bimbos
 bimonthlies
@@ -1569,7 +1538,6 @@ biophysics
 biopsied
 biopsies
 biopsy
-biopsying
 biorhythm
 biorhythms
 biosphere
@@ -1649,7 +1617,6 @@ bishoprics
 bishops
 bismuth
 bison
-bisons
 bisque
 bistable
 bistro
@@ -1725,7 +1692,6 @@ blackly
 bladder
 bladed
 blades
-blae
 blaff
 blain
 blame
@@ -1746,7 +1712,6 @@ blanks
 blare
 blared
 blaring
-blase
 blaspheme
 blasphemer
 blasphemy
@@ -1795,7 +1760,6 @@ bleep
 bleeped
 bleeping
 bleeps
-bleft
 bleh
 blemish
 blemished
@@ -1894,7 +1858,6 @@ blotters
 blotted
 blotting
 blow
-blowed
 blower
 blowers
 blowing
@@ -1926,8 +1889,6 @@ blunting
 bluntly
 blunts
 blurb
-blurbed
-blurbing
 blurbs
 blurt
 blurted
@@ -1994,7 +1955,6 @@ boiled
 boiler
 boilers
 boiling
-boilings
 boils
 bold
 bolder
@@ -2071,13 +2031,9 @@ books
 bookstore
 bookstores
 boon
-booned
-booning
 boons
 boor
 boors
-boose
-booses
 boost
 boosted
 booster
@@ -2088,7 +2044,6 @@ boot
 booted
 booter
 booters
-bootes
 booth
 booths
 booting
@@ -2117,7 +2072,6 @@ bork
 borked
 borking
 borks
-bory
 boscage
 bosom
 bosomed
@@ -2132,11 +2086,9 @@ bosses
 bossing
 boston
 bostonian
-bostonianism
-bostonianisms
+bostonians
 botanic
 botanical
-botanics
 botanist
 botanists
 botany
@@ -2190,7 +2142,6 @@ bourgeois
 bourgeoisie
 bourgeoisies
 bourn
-bournes
 bourse
 bourses
 bout
@@ -2211,9 +2162,6 @@ bowler
 bowlers
 bowling
 bowls
-bowse
-bowsed
-bowses
 bowstring
 box
 boxed
@@ -2298,7 +2246,6 @@ brazened
 brazening
 brazens
 brazil
-brazils
 brazing
 bread
 breadboard
@@ -2334,7 +2281,6 @@ breathed
 breather
 breathers
 breathing
-breathingly
 breathless
 breathlessly
 breathlessness
@@ -2353,7 +2299,6 @@ brewer
 breweries
 brewers
 brewing
-brewings
 bribe
 bribed
 bribery
@@ -2385,7 +2330,6 @@ brigades
 brigading
 brigand
 brigands
-brigh
 bright
 brighten
 brightened
@@ -2394,7 +2338,6 @@ brighter
 brightest
 brightly
 brightness
-brights
 brill
 brilliancy
 brilliance
@@ -2414,7 +2357,6 @@ brined
 brines
 brining
 bring
-bringback
 bringer
 bringers
 bringing
@@ -2430,11 +2372,9 @@ bristle
 bristled
 bristles
 bristling
-britch
 britches
 brittle
 brittleness
-brittler
 brittles
 broad
 broadband
@@ -2448,8 +2388,6 @@ broadness
 broads
 broadside
 broadsides
-broadspirit
-broadspirits
 brocade
 brocaded
 brocades
@@ -2477,8 +2415,6 @@ brooding
 broods
 brook
 brooked
-brooker
-brookers
 brooking
 brooks
 broom
@@ -2486,7 +2422,6 @@ broomed
 brooming
 brooms
 brose
-broseph
 broth
 brothels
 brother
@@ -2559,7 +2494,6 @@ budgeted
 budgeting
 budgets
 buddleia
-buddles
 buddhist
 buddhists
 buds
@@ -2598,7 +2532,6 @@ buildup
 buildups
 bulb
 bulbed
-bulber
 bulbs
 bulge
 bulged
@@ -2609,8 +2542,6 @@ bulkier
 bulkiest
 bulkiness
 bulkily
-bulkload
-bulkloads
 bulks
 bull
 bulldog
@@ -2633,7 +2564,6 @@ bullpen
 bullpens
 bulls
 bullseye
-bullseyeing
 bullseyes
 bully
 bullying
@@ -2673,11 +2603,7 @@ bunkers
 bunking
 bunks
 bunny
-bunsen
-bunsens
 buns
-bunyan
-bunyan
 burb
 burbled
 burbles
@@ -2693,7 +2619,6 @@ bureau
 bureaucracy
 bureaucratic
 bureaucrats
-bureaux
 burgeon
 burgeoned
 burgeoning
@@ -2730,8 +2655,6 @@ burnout
 burnouts
 burns
 burnt
-burntout
-burntouts
 burnup
 burnups
 burr
@@ -2752,7 +2675,6 @@ burse
 burses
 burst
 bursts
-bursy
 bury
 burying
 bus
@@ -2846,7 +2768,6 @@ buzzing
 buzzword
 buzzwords
 by  
-byall  
 bye  
 bygone  
 bygones  
@@ -2866,7 +2787,6 @@ byroad
 byroads  
 bystander  
 bystanders  
-bystanding  
 byways  
 byword
 bywords
