@@ -2,8 +2,7 @@ sabbath
 sabbatical  
 sable  
 sabotage  
-saboteur  
-sabre  
+saboteur 
 sac  
 saccharin  
 saccharine  
@@ -123,7 +122,6 @@ sank
 sans  
 sap  
 saphead  
-sapien
 sapiens
 sapless  
 sapphire  
@@ -165,7 +163,7 @@ saucy
 sauerkraut  
 sauna  
 sausage  
-saute  
+sauté  
 savage  
 savagely  
 savagery  
@@ -230,6 +228,7 @@ scenery
 scenic  
 scent  
 sceptic  
+scepter
 sceptre  
 schedule  
 schema  
@@ -575,6 +574,7 @@ shake
 shakedown  
 shaken  
 shaker  
+shakespeare
 shakespearean  
 shaky  
 shall  
@@ -610,7 +610,6 @@ shave
 shaven  
 shaver  
 shaving  
-shaw  
 shawl  
 she  
 shear  
@@ -781,7 +780,6 @@ sideways
 siding  
 siege  
 sienna  
-sierra  
 siesta  
 sieve  
 sigh  
@@ -842,7 +840,6 @@ simulation
 simulator  
 simultaneous  
 sin  
-sinai  
 since  
 sincere  
 sincerity  
@@ -911,7 +908,6 @@ skewer
 ski  
 skid  
 skiing  
-skilful  
 skill  
 skilled  
 skillet  
@@ -1080,6 +1076,7 @@ smokestack
 smoking  
 smoky  
 smolder  
+smolders
 smooch  
 smooth  
 smoothbore  
@@ -1090,7 +1087,8 @@ smoothness
 smorgasbord  
 smote  
 smother  
-smoulder  
+smoulder
+smoulders  
 smudge  
 smudgy  
 smug  
@@ -1212,7 +1210,7 @@ softness
 software  
 softwood  
 soggy  
-soigne  
+soigneur  
 soil  
 soiree  
 sojourn  
@@ -1246,8 +1244,7 @@ solo
 soloist  
 solstice  
 solubility  
-soluble  
-solubles  
+soluble   
 solute  
 solution  
 solvable  
@@ -1256,8 +1253,7 @@ solvency
 solvent  
 soma  
 somatic  
-somber  
-sombre  
+somber    
 some  
 somebody  
 someday  
@@ -1398,7 +1394,6 @@ spearhead
 spearmint  
 special  
 specialist  
-speciality  
 specialize  
 specially  
 specialty  
@@ -2095,9 +2090,7 @@ sulk
 sulky  
 sullen  
 sully  
-sulphate  
-sulphide  
-sulphur  
+sulphate 
 sultan  
 sultry  
 sum  
@@ -2141,8 +2134,7 @@ supercharge
 supercharger  
 supercilious  
 superconductivity  
-supercool  
-superdominant  
+supercool    
 superego  
 supereminence  
 supereminent  
