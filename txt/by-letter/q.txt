@@ -2,7 +2,6 @@ quack
 quacked
 quackery
 quacking
-quackish
 quacks
 quad
 quadrangle
@@ -105,7 +104,6 @@ quarks
 quarrel
 quarreled
 quarreling
-quarrelled
 quarrelling
 quarrels
 quarrelsome
@@ -141,7 +139,6 @@ quashed
 quashes
 quashing
 quasi
-quasimodo
 quaternary
 quaternion
 quaternions
@@ -152,15 +149,12 @@ quaver
 quavered
 quavering
 quavers
-quavery
 quay
 quays
 quayage
 qubit
 qubits
 queasy
-queazier
-queaziest
 queen
 queens
 queer
@@ -182,15 +176,10 @@ quenchers
 quenches
 quenching
 quenchless
-quene
 queried
 queries
 quern
 querns
-querried
-querries
-querrying
-quersprung
 query
 querying
 quest
@@ -233,12 +222,10 @@ quickies
 quickly
 quickness
 quicksand
-quicksands
 quicksilver
 quickstep
 quicky
 quid
-quids
 quiescence
 quiescent
 quiet
@@ -251,7 +238,6 @@ quietist
 quietly
 quietness
 quiets
-quiff
 quill
 quilled
 quills
@@ -264,11 +250,7 @@ quilts
 quinary
 quince
 quinces
-quincey
-quinic
 quinin
-quinina
-quining
 quinine
 quinnat
 quinoa
@@ -293,7 +275,6 @@ quintuples
 quintupling
 quip
 quipped
-quipper
 quipping
 quips
 quipster
@@ -309,7 +290,6 @@ quirking
 quirks
 quirky
 quirt
-quish
 quisling
 quislings
 quit
@@ -321,7 +301,6 @@ quitters
 quitting
 quiver
 quivered
-quiverful
 quivering
 quivers
 quivery
