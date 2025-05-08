@@ -1,7 +1,5 @@
-xalam  
 xanthan  
 xanthate  
-xanthein  
 xanthene  
 xanthic  
 xanthin  
@@ -12,7 +10,6 @@ xanthous
 xebec  
 xebecs
 xenia  
-xenial  
 xenogenesis  
 xenograft  
 xenolith  
@@ -22,13 +19,10 @@ xenophobe
 xenophobia  
 xenophobic  
 xenotropic  
-xenurine  
 xeric  
 xerically  
 xerarch  
-xerasia  
 xeroderma  
-xerodermia  
 xerography  
 xeroma  
 xerophyte  
@@ -37,7 +31,6 @@ xerophthalmia
 xeroradiography  
 xerosis  
 xerox  
-xi  
 xiphoid  
 xylem  
 xylene  
@@ -59,4 +52,3 @@ xylose
 xylotomy  
 xylyl  
 xyster  
-xyridaceous  
